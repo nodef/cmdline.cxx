@@ -1,0 +1,15 @@
+{
+  "name": "cmdline.cxx",
+  "version": "1.2014.2",
+  "description": "A Command Line Parser; Hideyuki Tanaka (2009).",
+  "keywords": ["c", "library", "command", "line", "parser"],
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/cmdline.cxx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/cmdline.cxx/issues"
+  },
+  "homepage": "https://github.com/nodef/cmdline.cxx#readme"
+}

@@ -5,11 +5,27 @@ cmdline: A simple command line parser for C++
 About
 -----
 
-This is a simple command line parser for C++.
+This is a simple command line parser for C++, by Hideyuki Tanaka.
 
 - Easy to use
 - Only one header file
 - Automatic type check
+
+Installation
+------------
+
+Run:
+
+::
+
+  $ npm i cmdline.cxx
+
+And then include `cmdline.h` as follows:
+
+::
+
+  #include "node_modules/cmdline.cxx/cmdline.h"
+
 
 Sample
 ------
