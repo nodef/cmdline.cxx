@@ -1,3 +1,5 @@
 .build/
-examples/
 build.sh
+
+examples/
+*.exe

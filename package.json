@@ -1,6 +1,6 @@
 {
   "name": "cmdline.cxx",
-  "version": "1.2014.2",
+  "version": "1.2014.4",
   "description": "A Command Line Parser; Hideyuki Tanaka (2009).",
   "keywords": [
     "cxx",
@@ -21,6 +21,6 @@
   "author": "wolfram77@gmail.com",
   "main": "cmdline.h",
   "scripts": {
-    "test": "exit"
+    "test": "bash build.sh test"
   }
 }

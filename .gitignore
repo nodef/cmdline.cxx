@@ -1,12 +1,6 @@
-# Generated files
-*.exe
-
-# Library files
-cmdline/
-cmdline.h
-
-# Build directory
+# Build artifacts
 .build/
+*.exe
 
 # Logs
 logs
